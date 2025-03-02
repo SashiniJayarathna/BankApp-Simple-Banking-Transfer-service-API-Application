@@ -37,7 +37,7 @@ Before running this application, ensure you have the following installed:
 Installation and Setup
 
 1.	Clone the repository:
-2.	git clone [https://github.com/SashiniJayarathna/bankApp.git]
+2.	git clone [https://github.com/SashiniJayarathna/BankApp-Simple-Banking-Transfer-service-API-Application.git]
 4.	Configure the database: Update src/main/resources/application.properties with your MySQL credentials:
 5.	spring.datasource.url=jdbc:mysql://localhost:3306/bankdb
 6.	spring.datasource.username=root
